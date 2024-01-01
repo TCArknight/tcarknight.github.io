@@ -6,5 +6,5 @@ This is my personal website on Github Pages
 
 ## Gaming
 ### Campaigns
-Fallout
-The Walking Dead
+[Fallout](https://tcarknight.github.io/fallout/)
+[The Walking Dead](https://tcarknight.github.io/twdu/)
