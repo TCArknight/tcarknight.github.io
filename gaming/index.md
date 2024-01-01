@@ -1,3 +1,3 @@
 # **GAMING**
 
-## This is my Gaming Area
+## This is my General Gaming Area
